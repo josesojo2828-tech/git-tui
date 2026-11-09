@@ -1,0 +1,14 @@
+# Binarios
+/bin/
+/git-tui
+*.exe
+*.test
+*.out
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
